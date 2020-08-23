@@ -11,7 +11,7 @@
     "express": "^4.17.1"
   },
   "engines": {
-    "node": "10x"
+    "node": "10.x"
   },
   "repository": {
     "url": ""
